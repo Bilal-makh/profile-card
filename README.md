@@ -7,5 +7,6 @@
   - [solution URL here](https://github.com/Bilal-makh/profile-card)
   - [live site URL here](https://bilal-makh.github.io/profile-card/)
 - [Author](https://www.frontendmentor.io/profile/Bilal-makh)
+## My Contact:  MakhloufiBilal0@gmail.com
 
 
